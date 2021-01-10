@@ -37,11 +37,11 @@ post = "/:year/:month/:day/:filename"
 [author]
 name = "papok"
 [params]
+subtitle = "Market Breadth"
+keywords = "市场宽度,美股市场宽度,Market Breadth,breadth.app,LEI & LoneCapital,技术指标,雷公市场宽度,市场宽度计算"
+description = "breadth.app,这里是看美股市场宽度的网站，市场全景，每天更新; U.S. stock market, updated daily，雷公市场宽度"
+googleAnalytics = "G-XJLPLKGPCG"
 author = "papok"
 fancybox = true
 # 默认是70
 # summaryLength = 140
-googleAnalytics = "G-XJLPLKGPCG"
-subtitle = "Market Breadth"
-keywords = "市场宽度,美股市场宽度,Market Breadth,breadth.app,LEI & LoneCapital,技术指标,雷公市场宽度,市场宽度计算"
-description = "breadth.app,这里是看美股市场宽度的网站，每天更新;Market BreadthHere is the site to see the width of the U.S. stock market, updated daily"
