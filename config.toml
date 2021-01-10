@@ -1,0 +1,44 @@
+baseURL = "https://breadth.app/article"
+languageCode = "zh-CN"
+title = "市场宽度 - Market Breadth Article"
+theme = "maupassant"
+uglyurls = true
+
+[permalinks]
+post = "/:year/:month/:day/:filename"
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    style = "github"
+
+[menu]
+#[[menu.main]]
+#identifier = "archives"
+#name = "归档"
+#url = "/archives/"
+#weight = 2
+#   [[menu.main]]
+#     identifier = "Main"
+#     name = "主站"
+#     url = "/breadth.app"
+#     weight = 2
+#
+#   [[menu.main]]
+#     identifier = "about"
+#     name = "关于"
+#     url = "/about/"
+#     weight = 4
+
+[[params.links]]
+  title = "主站"
+  name = "Market Breadth"
+  url = "https://breadth.app"
+
+[params]
+description = "市场宽度,美股市场宽度,Market Breadth,breadth.app"
+author = "papok"
+fancybox = true
+# 默认是70
+# summaryLength = 140
+googleAnalytics = "G-XJLPLKGPCG"
