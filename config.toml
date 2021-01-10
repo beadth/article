@@ -1,4 +1,4 @@
-baseURL = "https://breadth.app/article"
+baseURL = "https://breadth.app/article/"
 languageCode = "zh-CN"
 title = "市场宽度 - Market Breadth Article"
 theme = "maupassant"
