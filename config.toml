@@ -1,6 +1,6 @@
 baseURL = "https://breadth.app/article/"
 languageCode = "zh-CN"
-title = "市场宽度 - Market Breadth Article"
+title = "市场宽度 -  Article"
 theme = "maupassant"
 uglyurls = true
 
@@ -34,11 +34,14 @@ post = "/:year/:month/:day/:filename"
   title = "主站"
   name = "Market Breadth"
   url = "https://breadth.app"
-
+[author]
+name = "papok"
 [params]
-description = "市场宽度,美股市场宽度,Market Breadth,breadth.app"
 author = "papok"
 fancybox = true
 # 默认是70
 # summaryLength = 140
 googleAnalytics = "G-XJLPLKGPCG"
+subtitle = "Market Breadth"
+keywords = "市场宽度,美股市场宽度,Market Breadth,breadth.app,LEI & LoneCapital,技术指标,雷公市场宽度,市场宽度计算"
+description = "breadth.app,这里是看美股市场宽度的网站，每天更新;Market BreadthHere is the site to see the width of the U.S. stock market, updated daily"
